@@ -42,6 +42,18 @@ body {
     font-weight: bold;
     }
 
+/* style card */
+.product-card{ 
+    transition: transform 0.3s ease;
+}
+
+/* style footer */
+.footer{
+    background-color: #6f42c1;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    }
 
 
 

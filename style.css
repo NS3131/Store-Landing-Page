@@ -1,0 +1,28 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Media Queries */
+@media (max-width: 768px) {
+.hero h1 {
+        font-size: 2rem; 
+}  
+.hero {
+    height: 50vh;
+    }
+}
